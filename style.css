@@ -1,0 +1,168 @@
+.title
+{
+    background-repeat: no-repeat;
+     background: #0A2640;
+}
+h1, p
+{
+    color: whitesmoke;
+}
+.box
+{
+    background: #0A2640;
+}
+.lol
+{
+    border-radius: 50px;
+    width: 220%;
+    height: 90%;
+    border: 2px solid  #0A2640;
+    font-weight: 600;
+    color: black;
+}
+.sir
+{
+    border-radius: 50px;
+    width: 12%;
+    /* height: 90%; */
+    border: 2px solid  #0A2640;
+    font-weight: 600;
+    color: black;
+}
+ .nav-link, a
+{
+    color: black;
+    justify-content: space-evenly;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.div1
+{
+    height: 350px;
+}
+
+section, img
+{
+    width: 100%;
+}
+.bx
+{
+    height: 130%;
+}
+.vx
+{
+    background-color: #0A2640;
+}
+.b1 .vc
+{
+ width: 90%;
+ height:  90%;
+}
+.v1
+{
+    width: 5%;
+    height: 5%;
+}
+hr
+{
+    background-color:  #0A2640;
+    border: 2px solid  #0A2640;
+    width: 100%;
+    
+    
+}
+.l3
+{
+    width: 70%;
+    height:  50%;
+}
+.text-small {
+    font-size: 0.9rem;
+  }
+  
+  a {
+    color: inherit;
+    text-decoration: none;
+    transition: all 0.3s;
+  }
+  .well
+  {
+    width: 40%;
+  }
+  .A1
+  {
+    line-height: 50px;
+    
+  }
+  
+  a:hover, a:focus {
+    text-decoration: none;
+  }
+  
+  .form-control {
+    background: #212529;
+    border-color: #545454;
+  }
+  
+  .form-control:focus {
+    background: #212529;
+  }
+  
+.ref
+{
+    background-color:  #0A2640;
+    width: 100%;
+}
+.xc
+{
+    background-color: green;
+    border-radius: 50px;
+    width: 100px;
+    border: none;
+}
+.dt
+{
+    border-radius: 50px;
+    width: 200px;
+}
+footer
+{
+    height: 240px;
+}
+.dt:hover
+{
+    color: black;
+}
+.res
+{
+    background-color: green;
+    border-radius: 50px;
+    width: 60px;
+    height: 40px;
+
+}
+#d, a
+{
+    
+}
+@media screen and (max-width: 948px){
+    .lol
+    {
+        width: 45%;
+        height: 50%;
+    }
+     .nav-link:hover
+    {
+        border-bottom: none;
+    }
+    .nav-link, a
+    {
+        margin-left: none;
+    } 
+    .sir
+    {
+        width: 40%;
+        /* height: 70%; */
+    } 
+}
